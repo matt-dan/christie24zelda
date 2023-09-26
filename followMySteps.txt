@@ -1,0 +1,6 @@
+Try to edit this file this way:
+1. Open Visual Studio and checkout this repo's main
+2. Pull it in.
+3. Modify this file anyway you like.
+4. Stage this file for a commit and commit
+5. Push the commit up and create a PR.
