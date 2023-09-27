@@ -4,5 +4,6 @@ Try to edit this file this way:
 3. Modify this file anyway you like.
 4. Stage this file for a commit and commit
 5. Push the commit up and create a PR.
+6. Smash your fucking computer and commit arson cause it didn't work.
 
 PLEASE WORK!!!
